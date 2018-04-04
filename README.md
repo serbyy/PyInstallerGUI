@@ -1,4 +1,4 @@
-# PyInstallerGUI
+# PyInstallerGUI v 1.0
 
 PyInstallerGUI is a user interface for PyInstaller, a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX. The interface lets you select the options, select the directory and files and with a click of a button it execute the commands in the shell. You can add icons to your executable, version files and also extract the version file from other executable files.
 
